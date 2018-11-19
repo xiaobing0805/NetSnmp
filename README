@@ -1,0 +1,84 @@
+	       README file for source code of book《深入理解Net-SNMP》
+
+DISCLAIMER
+
+  The Authors assume no responsibility for damage or loss of system
+  performance as a direct or indirect result of the use of this
+  software.  This software is provided "as is" without express or
+  implied warranty.
+
+TABLE OF CONTENTS
+
+  Disclaimer
+  Table Of Contents
+  Introduction
+  Availability
+  Installation
+  Copying And Copyrights
+  Frequently Asked Questions
+  Mailing Lists
+  Thanks
+
+
+INTRODUCTION
+
+  《深入理解Net-SNMP》的源码，基于Net-SNMP 5.7.2开发。
+
+
+AVAILABILITY
+
+  Download:
+    - https://github.com/chansonZ/Understanding-the-Net-SNMP
+    - http://www.net-snmp.org/download/ （Net-SNMP）
+
+
+INSTALLATION
+
+  请参考书中对应章节。
+
+COPYING AND COPYRIGHTS
+
+  See the COPYING file distributed with this package.
+
+FREQUENTLY ASKED QUESTIONS
+
+  QQ：203127943
+
+
+MAILING LISTS
+
+    Mail： xtdwxk@gmail.com
+
+
+THANKS
+
+    Wes Hardaker <hardaker@users.sourceforge.net>
+    钟志勇，徐鑫鑫，白良浩，郑坤
+    
+BUY LINKS
+    http://item.jd.com/11755316.html
+    https://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Net-SNMP-%E5%BC%A0%E6%98%A5%E5%BC%BA/dp/B0144HF92S/ref=sr_1_1?ie=UTF8&qid=1466130904&sr=8-1&keywords=net-snmp
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
